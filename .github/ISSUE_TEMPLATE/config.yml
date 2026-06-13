@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://formatferry.vibingfun.com/docs
+    about: Check the docs before opening an issue
+  - name: 💬 General Discussion
+    url: https://github.com/britrik/formatferry-issues/discussions
+    about: For questions, ideas, and community chat (use Discussions, not Issues)
