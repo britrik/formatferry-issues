@@ -47,4 +47,4 @@ We respond to security reports within 24 hours and coordinate disclosure.
 ---
 
 **Format Ferry** · Utilities by [vibingfun.com](https://vibingfun.com/)  
-[Website](https://formatferry.vibingfun.com) · [Privacy](https://formatferry.vibingfun.com/privacy) · [Terms](https://formatferry.vibingfun.com/terms)
+[Website](https://formatferry.vibingfun.com) · [Privacy](https://formatferry.vibingfun.com/privacy) · [Terms](https://formatferry.vibingfun.com/terms) · [☕ Support the project](https://buymeacoffee.com/vibingfun)
