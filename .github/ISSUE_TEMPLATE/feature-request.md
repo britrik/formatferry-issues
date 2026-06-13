@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for FormatFerry
+about: Suggest an idea for Format Ferry
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''

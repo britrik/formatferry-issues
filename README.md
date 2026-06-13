@@ -1,6 +1,6 @@
-# FormatFerry Public Issue Tracker
+# Format Ferry Public Issue Tracker
 
-Welcome! This is the **public issue tracker** for [FormatFerry](https://formatferry.vibingfun.com) — a privacy-first file-to-Markdown converter.
+Welcome! This is the **public issue tracker** for [Format Ferry](https://formatferry.vibingfun.com) — a privacy-first file-to-Markdown converter.
 
 ## Quick Links
 
@@ -13,7 +13,7 @@ Welcome! This is the **public issue tracker** for [FormatFerry](https://formatfe
 
 ## About This Repo
 
-- **Source code:** The FormatFerry codebase is private (this repo does **not** contain source code)
+- **Source code:** The Format Ferry codebase is private (this repo does **not** contain source code)
 - **Purpose:** Public bug reports, feature requests, and community support
 - **Response time:** We aim to respond within 48 hours
 - **Status tracking:** All issues are tracked here publicly; internal fixes happen in the private repo
@@ -36,7 +36,7 @@ We respond to security reports within 24 hours and coordinate disclosure.
 ## FAQ
 
 **Q: Why is the source code private?**
-> FormatFerry's core is proprietary. We maintain a public issue tracker so users can report problems without needing repo access.
+> Format Ferry's core is proprietary. We maintain a public issue tracker so users can report problems without needing repo access.
 
 **Q: Can I contribute code?**
 > Not directly — the repo is closed-source. But feature requests are welcome, and we credit community ideas in release notes.
@@ -46,5 +46,5 @@ We respond to security reports within 24 hours and coordinate disclosure.
 
 ---
 
-**FormatFerry** © 2026 VibingFun Ltd  
+**Format Ferry** · Utilities by [vibingfun.com](https://vibingfun.com/)  
 [Website](https://formatferry.vibingfun.com) · [Privacy](https://formatferry.vibingfun.com/privacy) · [Terms](https://formatferry.vibingfun.com/terms)

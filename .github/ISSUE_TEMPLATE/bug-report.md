@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug in FormatFerry
+about: Report a bug in Format Ferry
 title: '[BUG] '
 labels: bug
 assignees: ''

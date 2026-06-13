@@ -11,7 +11,7 @@
 
 🔒 **Please do not open public issues for security vulnerabilities.**
 
-Instead, email us directly:
+Instead, email directly:
 
 **security@vibingfun.com**
 
@@ -29,11 +29,11 @@ Instead, email us directly:
 - **Fix deployed:** Public disclosure coordinated with you
 
 ### Hall of Fame
-We credit security researchers in our release notes (with your permission).
+Security researchers are credited in release notes (with your permission).
 
 ## Security Features
 
-FormatFerry is built with security as a core principle:
+Format Ferry is built with security as a core principle:
 - **Client-side processing** — your files never leave your browser
 - **No data persistence** — nothing stored on servers
 - **CSP headers** — strict content security policy
